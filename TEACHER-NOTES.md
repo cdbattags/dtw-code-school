@@ -45,5 +45,14 @@ What is code:
   - pour the milk onto the cereal in the bowl
 - data -> code -> data
 
+What are we going?
+- build code that you care about!
+- Instagram
+- YouTube
+- PokeAPI (show example)
+- TikTok videos
+- TwitchTV api
+- write code for games
+
 Hello world:
 -

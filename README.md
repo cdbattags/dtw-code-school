@@ -43,6 +43,7 @@ Follow along with my video presentation and you can download and try to run the 
 - Ask a question demo
 - What is data?
 - What is code?
+- Where are we going?
 - `hello, world`
 - `hello, <name>`
 - Intro to variables
